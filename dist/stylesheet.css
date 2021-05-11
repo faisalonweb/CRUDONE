@@ -307,7 +307,11 @@ input::-webkit-input-placeholder {
       }
   }
   @media (min-width: 768px) and (max-width: 862px) {
-    
+    .count-section p {
+      font-size: 14px;
+      font-family: sans-serif;
+      font-weight: bold;
+  }
     input::-webkit-input-placeholder {
         font-size: 14px;
         line-height: 2;
